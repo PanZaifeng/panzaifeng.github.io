@@ -22,7 +22,7 @@ Email Address: [panzaifeng@ruc.edu.cn](mailto:panzaifeng@ruc.edu.cn)
 
 ### education
 
-1. Sep 2021 ~ Jun 2021: M.S. in Computer Software and Theory, Renmin University of China. Advisor: Prof. [Feng Zhang](https://fengzhangcs.github.io/).
+1. Sep 2021 ~ Jun 2024: M.S. in Computer Software and Theory, Renmin University of China. Advisor: Prof. [Feng Zhang](https://fengzhangcs.github.io/).
 
 2. Sep 2017 ~ Jun 2021: B.E. in Mechanical Engineering, Shanghai Jiao Tong University.
 
