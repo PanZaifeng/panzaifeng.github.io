@@ -10,7 +10,7 @@
 
   {% if site.giscus.repo %}
     <script>
-      let giscusTheme = determineComputedTheme();
+      let giscusTheme = localStorage.getItem('theme');
       let giscusAttributes = {
         src: 'https://giscus.app/client.js',
         'data-repo': '{{ site.giscus.repo }}',
