@@ -36,4 +36,3 @@ Email Address: [panzaifeng@ruc.edu.cn](mailto:panzaifeng@ruc.edu.cn)
 3. Vitis Libraries Team at Xilinx, Software Developer Intern
 
 4. Deloitte Analytics Institute at Deloitte China, Data Analysis Intern
-
