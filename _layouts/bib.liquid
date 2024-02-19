@@ -154,6 +154,10 @@
       {{ entry.note | strip }}
     </div>
 
+    {% if entry.award %}
+      <b style="color:#FF0000;font-weight:800">🏆 &nbsp;{{ entry.award }}</b>
+    {% endif %}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.abstract %}
