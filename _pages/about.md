@@ -21,8 +21,6 @@ Zaifeng Pan is a master student at Renmin University of China. His current resea
 
 Email Address: [panzaifeng@ruc.edu.cn](mailto:panzaifeng@ruc.edu.cn)
 
-Latest CV: [[PDF](assets/zaifengpan_cv.pdf)]
-
 ## Education
 
 1. Sep 2021 ~ Jun 2021: M.S. in Computer Software and Theory, Renmin University of China. Advisor: Prof. [Feng Zhang](https://fengzhangcs.github.io/).
