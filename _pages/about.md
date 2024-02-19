@@ -9,18 +9,33 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>panzaifeng@ruc.edu.cn<\p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Zaifeng Pan is a master student at Renmin University of China. His current research interests include Machine Learning Systems and High Performance Computing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Email Address: [panzaifeng@ruc.edu.cn](mailto:panzaifeng@ruc.edu.cn)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Latest CV: [[PDF](assets/zaifengpan_cv.pdf)]
+
+## Education
+
+1. Sep 2021 ~ Jun 2021: M.S. in Computer Software and Theory, Renmin University of China. Advisor: Prof. [Feng Zhang](https://fengzhangcs.github.io/).
+
+2. Sep 2017 ~ Jun 2021: B.E. in Mechanical Engineering, Shanghai Jiao Tong University.
+
+## Work Experience
+
+1. DeepSpeed at Microsoft, Research Intern. Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io/)
+
+2. Platform of Artificial Intelligence (PAI) at Alibaba Cloud, Research Intern. Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io/)
+
+3. Vitis Libraries Team at Xilinx, Software Developer Intern
+
+4. Deloitte Analytics Institute at Deloitte China, Data Analysis Intern
+
