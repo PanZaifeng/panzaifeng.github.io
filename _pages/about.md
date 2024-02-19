@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>panzaifeng@ruc.edu.cn</p>
+  more_info:
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -21,13 +20,13 @@ Zaifeng Pan is a master student at Renmin University of China. His current resea
 
 Email Address: [panzaifeng@ruc.edu.cn](mailto:panzaifeng@ruc.edu.cn)
 
-## Education
+### education
 
 1. Sep 2021 ~ Jun 2021: M.S. in Computer Software and Theory, Renmin University of China. Advisor: Prof. [Feng Zhang](https://fengzhangcs.github.io/).
 
 2. Sep 2017 ~ Jun 2021: B.E. in Mechanical Engineering, Shanghai Jiao Tong University.
 
-## Work Experience
+### work experience
 
 1. DeepSpeed at Microsoft, Research Intern. Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io/)
 
