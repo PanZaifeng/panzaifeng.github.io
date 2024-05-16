@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Zaifeng Pan is incoming PhD student at UCSD, working with Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei). His current research interests include machine learning systems and compilers.
+Zaifeng Pan is an incoming PhD student at UCSD, working with Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei). His current research interests include machine learning systems and compilers.
 
 Email Address: [panzaifeng@ruc.edu.cn](mailto:panzaifeng@ruc.edu.cn)
 
@@ -30,6 +30,6 @@ Email Address: [panzaifeng@ruc.edu.cn](mailto:panzaifeng@ruc.edu.cn)
 
 1. Microsoft ~~DeepSpeed~~Bing, Research Intern. Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io/)
 
-2. Platform of Artificial Intelligence (PAI) at Alibaba Cloud, Research Intern. Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io/)
+2. Alibaba PAI, Research Intern. Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io/)
 
-3. Vitis Libraries Team at Xilinx, Software Developer Intern
+3. Xilinx Vitis Libraries Team, Software Developer Intern
