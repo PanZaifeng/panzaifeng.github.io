@@ -35,10 +35,8 @@ Email Address: [zapan@ucsd.edu](mailto:zapan@ucsd.edu)
 
 ### Work Experience
 
-- Microsoft ~~_DeepSpeed_~~Bing, Research Intern, 2023 - 2024 \\
+- Microsoft, Research Intern, 2023 - 2024 \\
   Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io/)
 
 - Alibaba PAI, Research Intern, 2021 - 2023 \\
   Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io/)
-
-- Xilinx Vitis Libraries Team, Software Developer Intern, 2021

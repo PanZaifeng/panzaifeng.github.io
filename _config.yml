@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Zaifeng
 middle_name:
 last_name: Pan
-email: panzaifeng@ruc.edu.cn
+email: zapan@ucsd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   # Zaifeng Pan is a master student at Renmin University of China. His current research interests include Machine Learning Systems and High Performance Computing.
 footer_text:
