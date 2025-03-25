@@ -28,7 +28,7 @@ Email Address: [zapan@ucsd.edu](mailto:zapan@ucsd.edu)
 
 - Renmin University of China (RUC), 2021 - 2024 \\
   M.S. in Computer Software and Theory \\
-  Advisor: Prof. [Feng Zhang](https://fengzhangcs.github.io).
+  Advisor: Prof. [Feng Zhang](https://fengzhangcs.github.io)
 
 - Shanghai Jiao Tong University (SJTU), 2017 - 2021 \\
   B.E. in Mechanical Engineering
