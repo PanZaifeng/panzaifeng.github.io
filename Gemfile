@@ -19,6 +19,8 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'css_parser'
+    gem 'jekyll-tabs'
 end
 group :other_plugins do
     gem 'feedjira'
