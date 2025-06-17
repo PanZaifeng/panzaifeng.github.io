@@ -45,6 +45,9 @@ Email Address: [zapan@ucsd.edu](mailto:zapan@ucsd.edu)
 
 ### Work Experience
 
+- Amazon Web Service, Applied Scientist Intern, 2025 \\
+  Mentor: Dr. [Aninda Manocha](https://scholar.google.com/citations?user=61GWAWcAAAAJ&hl=en) and Dr. [Zhuang Wang](https://zhuangwang93.github.io/)
+
 - Microsoft, Research Intern, 2023 - 2024 \\
   Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io/)
 
