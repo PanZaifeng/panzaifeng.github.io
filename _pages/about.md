@@ -26,9 +26,14 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Zaifeng Pan is a PhD student at UCSD, working with Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei). His current research interests include machine learning systems and compilers.
+Hi there!
+I am a Ph.D. student at UC San Diego, starting from Fall 2024. I’m part of the PICASSO Lab, where I am fortunate to be advised by Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei). My current research interests lie in machine learning systems, with a particular focus on making large language models (LLMs) more efficient from the perspectives of systems, compilers, and kernels, covering both inference and training.
 
-Email Address: [zapan@ucsd.edu](mailto:zapan@ucsd.edu)
+Before my Ph.D., I earned my Master’s degree at Renmin University of China, advised by Prof. [Feng Zhang](https://fengzhangcs.github.io) and working closely with Dr. [Zhen Zheng](https://jamesthez.github.io). My Master’s research focused on ML compilers for optimizing workloads on GPUs, with an emphasis on industrial recommendation models (see my publications at ASPLOS’23 and SC’24).
+
+My Chinese name is 潘再峰. I also like being called 小再.
+
+Email: [zapan@ucsd.edu](mailto:zapan@ucsd.edu)
 
 ### Education
 
@@ -46,10 +51,10 @@ Email Address: [zapan@ucsd.edu](mailto:zapan@ucsd.edu)
 ### Work Experience
 
 - Amazon Web Service, Applied Scientist Intern, 2025 \\
-  Mentor: Dr. [Aninda Manocha](https://scholar.google.com/citations?user=61GWAWcAAAAJ&hl=en) and Dr. [Zhuang Wang](https://zhuangwang93.github.io/)
+  Mentor: Dr. [Aninda Manocha](https://scholar.google.com/citations?user=61GWAWcAAAAJ&hl=en) and Dr. [Zhuang Wang](https://zhuangwang93.github.io)
 
 - Microsoft, Research Intern, 2023 - 2024 \\
-  Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io/)
+  Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io)
 
 - Alibaba PAI, Research Intern, 2021 - 2023 \\
-  Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io/)
+  Mentor: Dr. [Zhen Zheng](https://jamesthez.github.io)
