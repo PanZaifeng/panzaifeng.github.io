@@ -1,0 +1,46 @@
+{% comment %}
+Required params:
+- include.title: tab title (used for id slug)
+- include.dir: directory to scan (absolute, e.g., '/assets/img/moments/high_school/')
+Dependencies:
+- Uses Spotlight for image lightbox (page.images.spotlight should be true)
+- Expects CSS classes: .moments-masonry, .tile (defined in page)
+Note: This include renders ONLY the gallery content. Wrap it within the tab container in the caller.
+{% endcomment %}
+
+{% assign media = site.static_files
+  | where_exp: 'file', "file.path contains include.dir"
+  | reject_exp: 'file', "file.path contains '/_site/'"
+  | sort: 'name' %}
+
+{% assign videos = media | where_exp: 'f', "f.extname == '.mp4' or f.extname == '.mov' or f.extname == '.webm'" %}
+{% assign video_keys = '' %}
+{% for v in videos %}
+  {% assign k = v.path | remove: v.extname %}
+  {% assign video_keys = video_keys | append: '|' | append: k | append: '|' %}
+{% endfor %}
+
+<div class="spotlight-group moments-masonry" id="moments-{{ include.title | slugify }}">
+  {% for m in media %}
+  {% if m.extname == '.jpg' or m.extname == '.jpeg' or m.extname == '.png' or m.extname == '.gif' %}
+    {% assign key = m.path | remove: m.extname %}
+    {% unless video_keys contains key %}
+      <a class="spotlight" href="{{ m.path | relative_url }}" target="_blank">
+        <img src="{{ m.path | relative_url }}" alt="{{ m.name }}" loading="lazy" decoding="async" />
+      </a>
+    {% endunless %}
+  {% elsif m.extname == '.mp4' or m.extname == '.mov' or m.extname == '.webm' %}
+    <div class="tile">
+      {% assign poster_path = m.path | replace: m.extname, '.jpg' %}
+      {% if poster_path | file_exists %}
+        <video src="{{ m.path | relative_url }}" poster="{{ poster_path | relative_url }}" controls preload="metadata" playsinline muted></video>
+      {% else %}
+        <video src="{{ m.path | relative_url }}" controls preload="metadata" playsinline muted></video>
+      {% endif %}
+    </div>
+  {% endif %}
+  {% endfor %}
+  {% if media == empty %}
+  <p><em>No media found in {{ include.dir }}.</em></p>
+  {% endif %}
+</div>
