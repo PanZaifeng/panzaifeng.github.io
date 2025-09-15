@@ -13,9 +13,6 @@ moments:
   - title: At SJTU
     dir: "/assets/img/moments/SJTU/"
     desc:
-  - title: At RUC
-    dir: "/assets/img/moments/RUC/"
-    desc:
   - title: High School
     dir: "/assets/img/moments/high_school/"
     desc: "Memories from high school days!"
